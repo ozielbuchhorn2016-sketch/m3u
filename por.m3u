@@ -1,26 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Shop",1001 Noites (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SBTs.br@SD" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Shop",1001 Noites (720p) [Not 24/7]
 https://streaming.sattvgo.com.br/SBT_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="ADBTV.pt@SD" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Religious",ADB TV (1080p)
+#EXTINF:-1 tvg-id="REDE TV.pt@SD" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Religious",ADB TV (1080p)
 https://streamer.sattvacabo.com.br/REDE_TV_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV (720p)
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Movies",Adrenalina Pura TV
-https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
-#EXTINF:-1 tvg-id="AgroBrasilTV.br@SD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlphaChannel.br@SD" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="General",Alpha Channel (720p)
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-#EXTINF:-1 tvg-id="AmazonSat.br@SD" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Undefined",Amazon Sat (1080p)
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Portuguese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Portuguese (720p)
-https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Legislative",ARTV Canal Parlamento (720p) [Not 24/7]
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AWTV.br@HD" tvg-logo="https://i.imgur.com/2tdMyef.png" http-referrer="https://awtv.com.br" group-title="Classic;Series",AWTV (1080p) [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://awtv.com.br
-https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us@Brazil" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",Babyfirst
-https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
-#EXTINF:-1 tvg-id="BDCTV.br@SD" tvg-logo="https://i.imgur.com/6ckHV6k.jpeg" group-title="Entertainment",BDC TV (576p)
-https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV (720p)
+https://streaming.sattvgo.com.br/RBS_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="BAND.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Movies",Adrenalina Pura TV
+https://streaming.sattvgo.com.br/BAND_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
+https://streaming.sattvgo.com.br/RECORD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="RIT" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="General",Alpha Channel (720p)
+https://streaming.sattvgo.com.br/RECORD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="APARECIDA" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Undefined",Amazon Sat (1080p)
+https://streaming.sattvgo.com.br/TV_APARECIDA_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="A formiguinhaz" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Portuguese (720p)
+https://vod-sp1.sattvgo.com.br/hallo/Formiguinhaz/VUBI0000000000077090/stream_720p.m3u8
+#EXTINF:-1 tvg-id="SCI" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Legislative",ARTV Canal Parlamento (720p) [Not 24/7]
+https://streamer.sattvacabo.com.br/DISCOVERY_SCIENCE_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/2tdMyef.png" http-referrer="https://awtv.com.br" group-title="Classic;Series",AWTV (1080p) [Geo-blocked]
+https://streamer.sattvacabo.com.br/ESPN_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",Babyfirst
+https://streamer.sattvacabo.com.br/DISCOVERY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://i.imgur.com/6ckHV6k.jpeg" group-title="Entertainment",BDC TV (576p)
+https://streamer.sattvacabo.com.br/H2_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
