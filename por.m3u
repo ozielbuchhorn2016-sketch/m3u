@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SBTs.br@SD" tvg-logo="https://imgur.com/gallery/logo-sbt-9341oyQ" group-title=canais,SBT
+#EXTINF:-1 tvg-id="SBTs.br@SD" tvg-logo="https://imgur.com/0BUpcgI.png" group-title=tv,SBT
 https://streaming.sattvgo.com.br/SBT_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="REDE TV.pt@SD" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Religious",REDE TV
+#EXTINF:-1 tvg-id="REDE TV.pt@SD" tvg-logo="https://imgur.com/5rXXpuU.png" group-title="tv",REDE TV
 https://streamer.sattvacabo.com.br/REDE_TV_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",GLOBO
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://imgur.com/ZCeGqH0.png" group-title="tv",GLOBO
 https://streaming.sattvgo.com.br/RBS_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="BAND.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Movies",BAND
 https://streaming.sattvgo.com.br/BAND_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
