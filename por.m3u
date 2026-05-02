@@ -21,7 +21,7 @@ https://streamer.sattvacabo.com.br/ESPN_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn
 https://streamer.sattvacabo.com.br/DISCOVERY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://imgur.com/xChd7mC.png" group-title="tv",HISTORY 2
 https://streamer.sattvacabo.com.br/H2_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/Fpn5R67.png" group-title="infantil",KIDS TV+
-https://streaming.sattvgo.com.br/KIDS_MAIS/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="RIT" tvg-logo="https://imgur.com/aJzFpTZ.png" group-title="tv",RIT
 https://streaming.sattvgo.com.br/RIT/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="KIDS MAIS" tvg-logo="https://imgur.com/Fpn5R67.png" group-title="infantil",KIDS TV
+https://streaming.sattvgo.com.br/KIDS_MAIS/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
