@@ -5,7 +5,7 @@ https://streaming.sattvgo.com.br/SBT_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan
 https://streamer.sattvacabo.com.br/REDE_TV_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="RBS" tvg-logo="https://imgur.com/wuChIh0.png" group-title="tv",GLOBO
 https://streaming.sattvgo.com.br/RBS_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/a/3xGaWM4.png" group-title="tv",BAND
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/ggKYcA9.png" group-title="tv",BAND
 https://streaming.sattvgo.com.br/BAND_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="RECORD" tvg-logo="https://imgur.com/a/Uyi7g6C.png" group-title="tv",RECORD
 https://streaming.sattvgo.com.br/RECORD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
