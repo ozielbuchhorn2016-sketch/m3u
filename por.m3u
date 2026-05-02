@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/0BUpcgI.png" group-title=tv,SBT
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/0BUpcgI.png" group-title="tv",SBT
 https://streaming.sattvgo.com.br/SBT_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="RBS" tvg-logo="https://imgur.com/wuChIh0.png" group-title=tv,GLOBO
+#EXTINF:-1 tvg-id="RBS" tvg-logo="https://imgur.com/wuChIh0.png" group-title="tv",GLOBO
 https://streaming.sattvgo.com.br/RBS_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/lxy7mUh.png" group-title="tv",BAND
 https://streaming.sattvgo.com.br/BAND_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -9,17 +9,17 @@ https://streaming.sattvgo.com.br/BAND_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAa
 https://streaming.sattvgo.com.br/RECORD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="REDE TV" tvg-logo="https://imgur.com/W9rlQ4o.png" group-title=tv,REDE TV
 https://streamer.sattvacabo.com.br/REDE_TV_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="RIT" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="tv",RIT
+#EXTINF:-1 tvg-id="RIT" tvg-logo="https://imgur.com/aJzFpTZ.png" group-title="tv",RIT
 https://streaming.sattvgo.com.br/RECORD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="APARECIDA" tvg-logo="https://imgur.com/ENDAhC9.png" group-title="tv",APARECIDA
 https://streaming.sattvgo.com.br/TV_APARECIDA_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="A formiguinhaz" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",A FORMIGUINHA
 https://vod-sp1.sattvgo.com.br/hallo/Formiguinhaz/VUBI0000000000077090/stream_720p.m3u8
-#EXTINF:-1 tvg-id="SCI" tvg-logo="https://imgur.com/a/6vWPJMU.png" group-title="tv",SCI
+#EXTINF:-1 tvg-id="SCI" tvg-logo="https://imgur.com/iZMZC1X.png" group-title="tv",SCI
 https://streamer.sattvacabo.com.br/DISCOVERY_SCIENCE_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/a/umohdtf.png" http-referrer="https://awtv.com.br" group-title="ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/X6UitmH.png" group-title="tv",ESPN
 https://streamer.sattvacabo.com.br/ESPN_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://imgur.com/a/KpMfcDW.png" group-title="tv",DOSCOVERY
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://imgur.com/ijLCNT2.png" group-title="tv",DOSCOVERY
 https://streamer.sattvacabo.com.br/DISCOVERY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://imgur.com/a/DHqpOR1.png" group-title="tv",HISTORY 2
 https://streamer.sattvacabo.com.br/H2_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
