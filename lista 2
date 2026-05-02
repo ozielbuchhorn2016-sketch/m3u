@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/Fpn5R67.png" group-title="infantil",SBT
-https://streaming.sattvgo.com.br/KIDS_MAIS/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/9DyY3Qf.png" group-title="testes",SBT
+https://live-uvweb.yamyday.com/live/pt_ZX4B6A8A14A79CCF0_480p.m3u8?content_auth2=session_id%3D5THiNzbIvkf%26spared_addr%3D%26auth_id%3D545114420_com.unitv.webs__0%26media_encrypted%3D0%26sign_type%3Dcfl%26user_id%3D545114420%26app_id%3Dcom.unitv.webs%26app_ver%3D10102%26link%3Dcf%26main_addr%3Dhttps://live-uvweb.yamyday.com/v3/youshi/%26dev_id%3D9ae696f9%26client_ip%3D131.108.76.3%26expired%3D1777757031%26tag%3Dfdd4e0%26check_play_ip%3Dtrue%26token%3D21263963C02526651719F788E2CADCB6&content_license2=app_id%3Dcom.unitv.webs%26tag%3Dfdd4e0%26scheme%3Dmd5-01%26media_code%3Dpt_ZX4B6A8A14A79CCF0_480p%26expired%3D1778343293%26token%3D314495081519E81D69B48E9202725BFC&timestamp=1777742653015
