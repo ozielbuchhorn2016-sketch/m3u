@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SBTs.br@SD" tvg-logo="https://imgur.com/0BUpcgI.png" group-title=tv,SBT
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/0BUpcgI.png" group-title=tv,SBT
 https://streaming.sattvgo.com.br/SBT_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="REDE TV.pt@SD" tvg-logo="https://imgur.com/a/nJMQpVN.png" group-title="tv",REDE TV
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="https://imgur.com/0BUpcgI.png" group-title="tv",REDE TV
 https://streamer.sattvacabo.com.br/REDE_TV_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="RBS" tvg-logo="https://imgur.com/wuChIh0.png" group-title="tv",GLOBO
 https://streaming.sattvgo.com.br/RBS_HD/tracks-v1a1/mono.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
